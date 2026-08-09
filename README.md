@@ -1,5 +1,11 @@
 # trm-particle-geometry / Subatomic Topological Node Framework
 
+> **Note: this is a conceptual model / thinking tool, not a scientific theory or empirical model.**
+> The description below does not represent established, verified physics or biology — it is an author's
+> metaphor for analyzing structures. It should not be treated as proof of how reality is actually built,
+> nor as a peer-reviewed scientific publication.
+
+
 This module formalizes the subatomic scale ($\Lambda_{sub}$) within the universal field geometry. It completely eliminates the concept of zero-dimensional point-particles, replacing them with **Topological Solitons** (closed field-line knots) managed by the `FIELDCORE` runtime.
 
 ## Core Concept: Particles as Geometric Knots
